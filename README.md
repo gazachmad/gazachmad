@@ -4,16 +4,6 @@
 - Can use **[Flutter](https://flutter.dev/)** for Mobile Development.
 - Interested in **[Golang](https://go.dev/)**, **[Java](https://www.java.com/en/)** and **[Python](https://www.python.org/)**.
 - Quickly adapt to other programming languages.
-#### Weekly Languages Stats
-<!--START_SECTION:waka-->
-
-```text
-PHP           29 hrs 3 mins   ██████████████░░░░░░░░░░░   55.51 %
-TypeScript    17 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.11 %
-Other         3 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-```
-
-<!--END_SECTION:waka-->
 ### Stacks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,5 +22,15 @@ Other         3 hrs 2 mins    █▒░░░░░░░░░░░░░░�
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+#### Weekly Languages Stats
+<!--START_SECTION:waka-->
+
+```text
+PHP           29 hrs 3 mins   ██████████████░░░░░░░░░░░   55.51 %
+TypeScript    17 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.11 %
+Other         3 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+```
+
+<!--END_SECTION:waka-->
 ### Contact
 - Reach me at **[@gazachmad](https://www.instagram.com/gazachmad/)** on Instagram
