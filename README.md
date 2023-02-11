@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gazachmad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello world, I'm Gaza 👋
+### I am Fullstack Developer 🤘
 
-<!---
-gazachmad/gazachmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Proficient in **[PHP](https://www.php.net/)** and **[JavaScript](https://www.javascript.com/)** specially **[Laravel](https://laravel.com/)** and **[React JS](https://reactjs.org/)/[Native](https://reactnative.dev/)**.
+- Can use **[Flutter](https://flutter.dev/)** for Mobile Development.
+- Interested in **[Golang](https://go.dev/)**, **[Java](https://www.java.com/en/)** and **[Python](https://www.python.org/)**.
+- Quickly adapt to other programming languages.
