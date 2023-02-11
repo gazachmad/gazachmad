@@ -7,4 +7,11 @@
 - Quickly adapt to other programming languages.
 
 <!--START_SECTION:waka-->
+
+```text
+PHP           29 hrs 3 mins   ██████████████░░░░░░░░░░░   55.51 %
+TypeScript    17 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.11 %
+Other         3 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+```
+
 <!--END_SECTION:waka-->
