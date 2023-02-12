@@ -23,14 +23,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 #### Weekly Languages Stats
-<!--START_SECTION:waka-->
-
-```text
-PHP           29 hrs 3 mins   ██████████████░░░░░░░░░░░   55.51 %
-TypeScript    17 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.11 %
-Other         3 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-```
-
-<!--END_SECTION:waka-->
+![LanguagesStats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gazachmad&hide_title=true&langs_count=5)
 ### Contact
 - Reach me at **[@gazachmad](https://www.instagram.com/gazachmad/)** on Instagram
